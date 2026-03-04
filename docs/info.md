@@ -9,11 +9,10 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+inverters change input of 2 pins from 1 to 0 in order to display the H initial    
 
 ## How to test
-
-Explain how to use your project
+ outputs should all be 1 except for the OUT0 and OUT3
 
 ## External hardware
 
